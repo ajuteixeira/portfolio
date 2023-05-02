@@ -362,8 +362,11 @@ img {
   background-color: var(--first-color);
   color: #FFF;
   padding: 1rem;
+  font-family: var(--body-font);
+  font-size: 1rem;
+  font-weight: var(--normal-font-size);
+  border: none;
   border-radius: .5rem;
-  font-weight: var(--font-medium);
 }
 
 .button:hover {
